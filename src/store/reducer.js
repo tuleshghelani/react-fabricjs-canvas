@@ -101,7 +101,7 @@ function setReducer(state = { canvas: null, color:"#ff0000" }, action) {
                 return state;
             }
             const a = document.createElement("a");
-            const uri = state.canvas.toDataURL({format: 'jpg', multiplier: 1.066, quality: 1});
+            const uri = state.canvas.toDataURL({format: 'jpg', multiplier: 1, quality: 1});
             console.log(uri);
             a.href = uri
             a.download = "Online_Drawer.jpg";
