@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/react-fabricjs-canvas/static/css/main.ee5c7ccc.chunk.css",
+    "main.js": "/react-fabricjs-canvas/static/js/main.7cfcf57b.chunk.js",
+    "main.js.map": "/react-fabricjs-canvas/static/js/main.7cfcf57b.chunk.js.map",
+    "runtime-main.js": "/react-fabricjs-canvas/static/js/runtime-main.21aa9dc5.js",
+    "runtime-main.js.map": "/react-fabricjs-canvas/static/js/runtime-main.21aa9dc5.js.map",
+    "static/js/2.97797f98.chunk.js": "/react-fabricjs-canvas/static/js/2.97797f98.chunk.js",
+    "static/js/2.97797f98.chunk.js.map": "/react-fabricjs-canvas/static/js/2.97797f98.chunk.js.map",
+    "static/css/3.a2363f9b.chunk.css": "/react-fabricjs-canvas/static/css/3.a2363f9b.chunk.css",
+    "static/js/3.d64836e5.chunk.js": "/react-fabricjs-canvas/static/js/3.d64836e5.chunk.js",
+    "static/js/3.d64836e5.chunk.js.map": "/react-fabricjs-canvas/static/js/3.d64836e5.chunk.js.map",
+    "static/js/4.02164e86.chunk.js": "/react-fabricjs-canvas/static/js/4.02164e86.chunk.js",
+    "static/js/4.02164e86.chunk.js.map": "/react-fabricjs-canvas/static/js/4.02164e86.chunk.js.map",
+    "static/js/5.b1497c97.chunk.js": "/react-fabricjs-canvas/static/js/5.b1497c97.chunk.js",
+    "static/js/5.b1497c97.chunk.js.map": "/react-fabricjs-canvas/static/js/5.b1497c97.chunk.js.map",
+    "static/js/6.daa1d603.chunk.js": "/react-fabricjs-canvas/static/js/6.daa1d603.chunk.js",
+    "static/js/6.daa1d603.chunk.js.map": "/react-fabricjs-canvas/static/js/6.daa1d603.chunk.js.map",
+    "index.html": "/react-fabricjs-canvas/index.html",
+    "static/css/3.a2363f9b.chunk.css.map": "/react-fabricjs-canvas/static/css/3.a2363f9b.chunk.css.map",
+    "static/css/main.ee5c7ccc.chunk.css.map": "/react-fabricjs-canvas/static/css/main.ee5c7ccc.chunk.css.map",
+    "static/js/2.97797f98.chunk.js.LICENSE.txt": "/react-fabricjs-canvas/static/js/2.97797f98.chunk.js.LICENSE.txt",
+    "static/js/3.d64836e5.chunk.js.LICENSE.txt": "/react-fabricjs-canvas/static/js/3.d64836e5.chunk.js.LICENSE.txt",
+    "static/js/4.02164e86.chunk.js.LICENSE.txt": "/react-fabricjs-canvas/static/js/4.02164e86.chunk.js.LICENSE.txt",
+    "static/js/5.b1497c97.chunk.js.LICENSE.txt": "/react-fabricjs-canvas/static/js/5.b1497c97.chunk.js.LICENSE.txt",
+    "static/media/Clear.cba48e59.svg": "/react-fabricjs-canvas/static/media/Clear.cba48e59.svg",
+    "static/media/Cursor.43f02867.svg": "/react-fabricjs-canvas/static/media/Cursor.43f02867.svg",
+    "static/media/Image.80ed2f40.svg": "/react-fabricjs-canvas/static/media/Image.80ed2f40.svg",
+    "static/media/T.efb08d89.svg": "/react-fabricjs-canvas/static/media/T.efb08d89.svg",
+    "static/media/jpg.62a03104.svg": "/react-fabricjs-canvas/static/media/jpg.62a03104.svg",
+    "static/media/logo.6ce24c58.svg": "/react-fabricjs-canvas/static/media/logo.6ce24c58.svg",
+    "static/media/pdf.18d66a21.svg": "/react-fabricjs-canvas/static/media/pdf.18d66a21.svg",
+    "static/media/png.829f6097.svg": "/react-fabricjs-canvas/static/media/png.829f6097.svg",
+    "static/media/replace.b9c0023a.svg": "/react-fabricjs-canvas/static/media/replace.b9c0023a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21aa9dc5.js",
+    "static/css/3.a2363f9b.chunk.css",
+    "static/js/3.d64836e5.chunk.js",
+    "static/css/main.ee5c7ccc.chunk.css",
+    "static/js/main.7cfcf57b.chunk.js"
+  ]
+}
