@@ -4,7 +4,7 @@ import ToolbarComponent from '../components/toolbar'
 function Main() {
     return (
         <div>
-            <p className="font-weight-bold text-red font-size-xl pt-5">#NFT DOGE</p>
+            <p className="font-weight-bold text-red font-size-xl pt-5">#Canvas</p>
             <div className="py-2 panel-height row">              
                 {/* <div > */}
                 <div className="col-xl-1 col-lg-2 col-md-2 col-sm-3 mb-5">
